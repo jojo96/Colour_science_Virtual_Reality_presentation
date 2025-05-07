@@ -76,7 +76,7 @@
 
 <div class="captioned-image-row">
   <div>
-    <img data-src="media/imgs/VR1.jpg">
+    
     <i>Almost everywhere</i>
   </div>
   <div>
