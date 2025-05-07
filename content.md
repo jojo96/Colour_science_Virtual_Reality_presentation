@@ -76,15 +76,15 @@
 
 <div class="captioned-image-row">
   <div>
-    <img data-src="media/img/VR1.jpg">
+    <img data-src="media/imgs/VR1.jpg">
     <i>Almost everywhere</i>
   </div>
   <div>
-    <img data-src="media/img/VR2.jpg">
+    <img data-src="media/imgs/VR2.jpg">
     <i>Long history</i>
   </div>
   <div>
-    <img data-src="media/img/VR3.png">
+    <img data-src="media/imgs/VR3.png">
     <i>Lots of applications</i>
   </div>
 </div>
