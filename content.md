@@ -1,7 +1,7 @@
 <!-- .slide: data-background="media/imgs/aframe.jpg" -->
 
 <div class="talk-title">
-  <h1>VR for Color Science</h1>
+  <h1>Virtual Reality for Color Science</h1>
   <p>Supervisor: Prof. Frédéric Leloup </p>
   <p class="talk-info">
     Light&Lighting Lab | KU Leuven | @jojo96(GitHub)
