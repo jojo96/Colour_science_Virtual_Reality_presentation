@@ -1,6 +1,6 @@
 # PRESENTATION 
 
-[SLIDES]([https://aframe.io/aframe-presentation-kit/#/](https://jojo96.github.io/Colour_science_Virtual_Reality_presentation/))
+[SLIDES](https://aframe.io/aframe-presentation-kit/#/](https://jojo96.github.io/Colour_science_Virtual_Reality_presentation/)
 
 # Inspired by the aframe-presentation-kit
 
